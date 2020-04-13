@@ -1,0 +1,10 @@
+{
+  "name": "canton-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yeung Yiu Hung <446404+darkcl@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  }
+}
